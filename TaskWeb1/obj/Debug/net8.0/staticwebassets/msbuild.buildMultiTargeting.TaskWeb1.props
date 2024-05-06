@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TaskWeb1.props" />
+</Project>
